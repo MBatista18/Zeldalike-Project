@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: ba222472fd19ed742a5e9c9db1c0d112
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Study_Knight_idle_Front_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1164
+        width: 300
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cc00861126636418194974021aa995
+      internalID: 915092329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_idle_Front_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1164
+        width: 300
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7174037565efd44bf49804cbee1bcf
+      internalID: -306543080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_idle_Front_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1164
+        width: 300
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4d08c2ac2f72e41b29fa47011e24bc
+      internalID: 1692245983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_idle_Front_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1164
+        width: 300
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dc07be61fd62b43b23ca94cd4d05e4
+      internalID: 1949135332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_idle_Front_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1164
+        width: 300
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5107cab2b53a8049b0bc5058ee1ae72
+      internalID: 28797014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_idle_Front_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 780
+        width: 300
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426ef2894fa11404587486ab6420cac5
+      internalID: 91308583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_idle_Front_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 780
+        width: 300
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5b2f8a14cbbd849b35b64400f42bf2
+      internalID: -404302088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_idle_Front_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 780
+        width: 300
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa76bae8ec25aca4e84ef71ea5811cec
+      internalID: 857590977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_idle_Front_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 780
+        width: 300
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7467329f6011a254fbd2b7a64dfb6159
+      internalID: -58602662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_idle_Front_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 780
+        width: 300
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d14c3b74b59764d9857dd782da5471
+      internalID: -1568599137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_idle_Front_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 396
+        width: 300
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e089747ae370f342826e490a01071b8
+      internalID: -1662334089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_idle_Front_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 396
+        width: 300
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba029a0258196ee4aa9625d99fba94a1
+      internalID: -1020141167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_idle_Front_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 396
+        width: 300
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322e3682a7c312a4e84202986f83b3a9
+      internalID: 924963165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_idle_Front_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 396
+        width: 300
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d938e3b7023b44b4ab53053ee5423cd7
+      internalID: -774902163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_idle_Front_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 396
+        width: 300
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742fcb68d8919b949b2760fd1a13c05d
+      internalID: 1422149338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_idle_Front_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 300
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744ffd3d40568134cb7c0cd5a5d6ca71
+      internalID: 121009721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_idle_Front_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 12
+        width: 300
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5480576be52308249935ad37d456c007
+      internalID: 1774720271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Study_Knight_idle_Front_SpriteSheet_0: 915092329
+      Study_Knight_idle_Front_SpriteSheet_1: -306543080
+      Study_Knight_idle_Front_SpriteSheet_10: -1662334089
+      Study_Knight_idle_Front_SpriteSheet_11: -1020141167
+      Study_Knight_idle_Front_SpriteSheet_12: 924963165
+      Study_Knight_idle_Front_SpriteSheet_13: -774902163
+      Study_Knight_idle_Front_SpriteSheet_14: 1422149338
+      Study_Knight_idle_Front_SpriteSheet_15: 121009721
+      Study_Knight_idle_Front_SpriteSheet_16: 1774720271
+      Study_Knight_idle_Front_SpriteSheet_2: 1692245983
+      Study_Knight_idle_Front_SpriteSheet_3: 1949135332
+      Study_Knight_idle_Front_SpriteSheet_4: 28797014
+      Study_Knight_idle_Front_SpriteSheet_5: 91308583
+      Study_Knight_idle_Front_SpriteSheet_6: -404302088
+      Study_Knight_idle_Front_SpriteSheet_7: 857590977
+      Study_Knight_idle_Front_SpriteSheet_8: -58602662
+      Study_Knight_idle_Front_SpriteSheet_9: -1568599137
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
