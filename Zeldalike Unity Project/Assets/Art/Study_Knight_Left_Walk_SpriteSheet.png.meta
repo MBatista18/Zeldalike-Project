@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: cb70e592139bcde42a69e0b7a9f08691
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Study_Knight_Left_Walk_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 792
+        width: 264
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37593a25f6207649818f18c97cdcae1
+      internalID: -2104405598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_Left_Walk_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 792
+        width: 264
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25e90dc0ede36845878c7517aab739f
+      internalID: -1550099171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_Left_Walk_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 792
+        width: 264
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d2c39597ea4e842980f7e658b481c8
+      internalID: 35694906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_Left_Walk_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 792
+        width: 264
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845daf5fba21fdd488ee40846bfbdb7e
+      internalID: 167130965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_Left_Walk_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 792
+        width: 264
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b13e883d2b56c48ae87452bc25393a
+      internalID: -134540469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_Left_Walk_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 408
+        width: 264
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e841790379a21640b6987e79f351d45
+      internalID: -2009339636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_Left_Walk_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 408
+        width: 264
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8270e34f070232b4897ea0dbf324e1c1
+      internalID: 1890065599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_Left_Walk_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 408
+        width: 264
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab5457c169e72d43b0a25b05b646edf
+      internalID: -219749421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_Left_Walk_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 408
+        width: 264
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d419502032fa3e4458ad24be4bb6cac2
+      internalID: 551171759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_Left_Walk_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 408
+        width: 264
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f505a93af46d1c04bac240f3109c4a95
+      internalID: 301657498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_Left_Walk_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 24
+        width: 264
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82ec1040353bbb48b953af826341220
+      internalID: -476161048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_Left_Walk_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 24
+        width: 264
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d11f72919984d4ab42ad6418aff460
+      internalID: -623465754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_Left_Walk_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 24
+        width: 264
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3cf980e062bed44ace3793bad697f1
+      internalID: 1606809142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_Left_Walk_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 24
+        width: 264
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35d7066bc2a5454fa597d6f4229dbce
+      internalID: 1748679919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Study_Knight_Left_Walk_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 24
+        width: 264
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df358595306798542840ba7a6048e8e5
+      internalID: 758745302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Study_Knight_Left_Walk_SpriteSheet_0: -2104405598
+      Study_Knight_Left_Walk_SpriteSheet_1: -1550099171
+      Study_Knight_Left_Walk_SpriteSheet_10: -476161048
+      Study_Knight_Left_Walk_SpriteSheet_11: -623465754
+      Study_Knight_Left_Walk_SpriteSheet_12: 1606809142
+      Study_Knight_Left_Walk_SpriteSheet_13: 1748679919
+      Study_Knight_Left_Walk_SpriteSheet_14: 758745302
+      Study_Knight_Left_Walk_SpriteSheet_2: 35694906
+      Study_Knight_Left_Walk_SpriteSheet_3: 167130965
+      Study_Knight_Left_Walk_SpriteSheet_4: -134540469
+      Study_Knight_Left_Walk_SpriteSheet_5: -2009339636
+      Study_Knight_Left_Walk_SpriteSheet_6: 1890065599
+      Study_Knight_Left_Walk_SpriteSheet_7: -219749421
+      Study_Knight_Left_Walk_SpriteSheet_8: 551171759
+      Study_Knight_Left_Walk_SpriteSheet_9: 301657498
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
